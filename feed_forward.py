@@ -1,7 +1,5 @@
 # Multilayer neural network to classify handwritten digits via the MNIST dataset. 
 
-from turtle import hideturtle
-from sympy import Ne
 import torch
 import torch.nn as nn
 import torchvision
